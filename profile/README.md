@@ -18,8 +18,6 @@ Trickster is a powerful yet lightweight utility designed for macOS that provides
 
 The app intelligently categorizes files by type and usage frequency, allowing you to pin important items for even faster access. Whether you’re a developer switching between code files, a designer reviewing mockups, or a writer organizing drafts, Trickster saves time and reduces clutter.
 
-![Trickster Menu Bar](https://tricksterapp.com/images/screenshot-menu.png)
-
 With support for all major file formats and seamless integration with macOS features like Spotlight and Quick Look, Trickster enhances your workflow without getting in the way. It’s optimized for both Intel and Apple Silicon Macs, running smoothly on macOS Sonoma, Ventura, and earlier versions.
 
 Trickster also includes powerful search filters, batch actions, and customizable keyboard shortcuts. Its clean, minimal interface ensures that you spend less time managing files and more time being productive.
